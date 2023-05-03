@@ -1,4 +1,25 @@
-dateModified: 1683143089
+dateModified: 1683143711
+elementSources:
+  craft\elements\Entry:
+    -
+      key: '*'
+      type: native
+    -
+      key: singles
+      type: native
+    -
+      heading: Channels
+      type: heading
+    -
+      defaultSort:
+        - postDate
+        - desc
+      disabled: false
+      key: 'section:c5b75833-e798-4ce2-988e-c001b64a7f68' # Adventures
+      tableAttributes:
+        - 'field:da3edfb6-18fb-442e-b76b-9b00380e510a' # Location
+        - link
+      type: native
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -40,6 +61,7 @@ meta:
     c8fafa2a-73cf-41ee-ae56-afd049f79281: Homepage # Homepage
     c51b2e71-ef89-4217-af42-ee91c498ae72: Image # Image
     cdf3301e-c893-4f68-9c16-d1c8b81dd94d: Adventures # Adventures
+    da3edfb6-18fb-442e-b76b-9b00380e510a: Location # Location
     fb921e71-563f-4841-9947-e3b3a9e8d651: Stats # Stats
 plugins:
   redactor:
