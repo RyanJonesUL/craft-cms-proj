@@ -1,0 +1,55 @@
+fieldLayouts:
+  574d7f9e-4f43-4a2c-a8ed-27847e5e9d93:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: FAQs
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 9aba00b6-5857-4aaa-9607-13e86681fa88
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 73dee624-3cc1-4180-9524-9f875b44d168 # Rich Text
+            instructions: 'Create each question as an h3 and each answer as body text.'
+            label: FAQs
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 002287f4-688b-464e-a26f-d0919a53ef64
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f382a408-6d47-4ddb-b675-5da7061aac6b
+        userCondition: null
+handle: faqs
+hasTitleField: true
+name: FAQs
+section: b31fec40-01bc-41ca-bbc7-c2b947d6a7e7 # FAQs
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

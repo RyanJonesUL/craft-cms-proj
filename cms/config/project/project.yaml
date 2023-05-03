@@ -1,4 +1,4 @@
-dateModified: 1683139082
+dateModified: 1683143089
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -25,11 +25,17 @@ meta:
     53ed4ec6-af5c-42a2-afad-80c9a997d531: 'Public Schema' # Public Schema
     58f5b474-d2ce-4341-a712-17a571a8a6db: 'Rich Text' # Rich Text
     65b1bafd-55ba-4e72-99c5-a70e6cf78fb3: Homepage # Homepage
+    73dee624-3cc1-4180-9524-9f875b44d168: 'Rich Text' # Rich Text
+    83d405dd-0042-4021-8459-b67b36beb35a: FAQs # FAQs
     86bcac20-f64d-48f5-92b1-15ac5ff68704: URL # URL
+    97f89dae-aac4-44bc-8d37-6bae74275c0e: About # About
+    777bdb37-4d0b-421a-8c73-b124ac5449bb: About # About
     963aff57-ae2b-4113-99d8-5aaf7ee95d07: Homepage # Homepage
+    5800ba00-612b-4bac-bc2d-db201448df16: Locations # Locations
     6957f4b3-6e4b-461e-9237-d537d564fcc1: 'Content Builder' # Content Builder
     307097b1-a797-4719-8372-8d957fe05dcf: Default # Default
     78076418-581f-4a1f-a7ed-470e45dadee8: CTA # CTA
+    b31fec40-01bc-41ca-bbc7-c2b947d6a7e7: FAQs # FAQs
     c5b75833-e798-4ce2-988e-c001b64a7f68: Adventures # Adventures
     c8fafa2a-73cf-41ee-ae56-afd049f79281: Homepage # Homepage
     c51b2e71-ef89-4217-af42-ee91c498ae72: Image # Image
