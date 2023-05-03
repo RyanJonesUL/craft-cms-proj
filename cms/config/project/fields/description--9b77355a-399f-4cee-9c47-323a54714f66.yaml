@@ -1,0 +1,19 @@
+columnSuffix: iivdnlcn
+contentColumnType: text
+fieldGroup: 3ce62596-45b2-4aba-998c-f3be11ef0e13 # Common
+handle: description
+instructions: null
+name: Description
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

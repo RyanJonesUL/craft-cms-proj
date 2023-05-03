@@ -1,0 +1,90 @@
+fieldLayouts:
+  a9002a74-7032-4e74-87ea-e3d225d63474:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 9cf01512-986f-41f0-bdae-3698ebe37439
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 9b77355a-399f-4cee-9c47-323a54714f66 # Description
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f408c7d7-a8e6-4c44-81a3-71abbfd383e4
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: c0e7f674-1244-42a2-9e1b-8eda3c2dd043
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: 6957f4b3-6e4b-461e-9237-d537d564fcc1 # Content Builder
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1f51dc41-366b-44dd-b027-07f68b1b442c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d68e4989-8872-469b-8c62-42f000b6ef75
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 4d8965f3-dbff-4afb-9415-3d4d32411107 # Images
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b606c591-9142-4e07-a3d3-3a2664f3600d
+            userCondition: null
+            warning: null
+            width: 100
+        name: Images
+        uid: 0a735d17-7acb-40ef-a5b9-95d3e1726ce6
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: c5b75833-e798-4ce2-988e-c001b64a7f68 # Adventures
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

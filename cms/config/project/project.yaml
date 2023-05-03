@@ -1,4 +1,4 @@
-dateModified: 1683130804
+dateModified: 1683139082
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -13,9 +13,33 @@ fs:
     url: '@assetsUrl/assets/site'
 meta:
   __names__:
+    0a7e2618-6229-4e6d-87e0-701d85e633d1: Text # Text
+    3ce62596-45b2-4aba-998c-f3be11ef0e13: Common # Common
+    4bc480dc-2ce7-429e-a68c-1b4f4c03e745: Stat # Stat
+    4d8965f3-dbff-4afb-9415-3d4d32411107: Images # Images
+    5c0d212d-68a4-414c-a68f-8a20ab7e04a6: Text # Text
     5c642d7e-b16b-4836-9575-668d75d242e5: Site # Site
+    6bb86789-dc7c-4c62-b4e8-2a7b8adacd31: Tagline # Tagline
+    7f756426-3922-4a5c-8098-bb2b3a752e4f: Headline # Headline
+    9b77355a-399f-4cee-9c47-323a54714f66: Description # Description
     53ed4ec6-af5c-42a2-afad-80c9a997d531: 'Public Schema' # Public Schema
+    58f5b474-d2ce-4341-a712-17a571a8a6db: 'Rich Text' # Rich Text
+    65b1bafd-55ba-4e72-99c5-a70e6cf78fb3: Homepage # Homepage
+    86bcac20-f64d-48f5-92b1-15ac5ff68704: URL # URL
+    963aff57-ae2b-4113-99d8-5aaf7ee95d07: Homepage # Homepage
+    6957f4b3-6e4b-461e-9237-d537d564fcc1: 'Content Builder' # Content Builder
+    307097b1-a797-4719-8372-8d957fe05dcf: Default # Default
+    78076418-581f-4a1f-a7ed-470e45dadee8: CTA # CTA
+    c5b75833-e798-4ce2-988e-c001b64a7f68: Adventures # Adventures
+    c8fafa2a-73cf-41ee-ae56-afd049f79281: Homepage # Homepage
+    c51b2e71-ef89-4217-af42-ee91c498ae72: Image # Image
+    cdf3301e-c893-4f68-9c16-d1c8b81dd94d: Adventures # Adventures
+    fb921e71-563f-4841-9947-e3b3a9e8d651: Stats # Stats
 plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
   vite:
     edition: standard
     enabled: true

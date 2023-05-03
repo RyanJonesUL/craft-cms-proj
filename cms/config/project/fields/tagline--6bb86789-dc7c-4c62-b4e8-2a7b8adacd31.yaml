@@ -1,0 +1,19 @@
+columnSuffix: qjvbicox
+contentColumnType: text
+fieldGroup: 963aff57-ae2b-4113-99d8-5aaf7ee95d07 # Homepage
+handle: tagline
+instructions: 'Appears under the headline on homepage.'
+name: Tagline
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

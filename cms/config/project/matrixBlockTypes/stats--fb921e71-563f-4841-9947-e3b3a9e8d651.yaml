@@ -1,0 +1,85 @@
+field: 6957f4b3-6e4b-461e-9237-d537d564fcc1 # Content Builder
+fieldLayouts:
+  242b94de-e710-4c31-b6be-e98ea2a4727c:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 4bc480dc-2ce7-429e-a68c-1b4f4c03e745 # Stat
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6feb38f7-9146-4011-b6cb-c17ef77312f7
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: fd2f08d3-e843-44a3-a223-98daf9b9f476
+        userCondition: null
+fields:
+  4bc480dc-2ce7-429e-a68c-1b4f4c03e745: # Stat
+    columnSuffix: lswmwsmi
+    contentColumnType: text
+    fieldGroup: null
+    handle: stat
+    instructions: null
+    name: Stat
+    searchable: false
+    settings:
+      addRowLabel: 'Add a stat'
+      columnType: text
+      columns:
+        __assoc__:
+          -
+            - col1
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Name
+                -
+                  - handle
+                  - name
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+          -
+            - col2
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Value
+                -
+                  - handle
+                  - value
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+      defaults:
+        -
+          __assoc__:
+            -
+              - col1
+              - ''
+            -
+              - col2
+              - ''
+      maxRows: 4
+      minRows: 2
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Table
+handle: stats
+name: Stats
+sortOrder: 3
