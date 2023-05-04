@@ -1,0 +1,58 @@
+columnSuffix: vvicnsuz
+contentColumnType: text
+fieldGroup: ebe0dd8d-7baf-4a48-b0ea-fede0571a2f9 # Testimonials
+handle: testimonialByline
+instructions: null
+name: 'Testimonial Byline'
+searchable: false
+settings:
+  addRowLabel: 'Add a Byline'
+  columnType: text
+  columns:
+    __assoc__:
+      -
+        - col1
+        -
+          __assoc__:
+            -
+              - heading
+              - 'Full Name'
+            -
+              - handle
+              - fullName
+            -
+              - width
+              - ''
+            -
+              - type
+              - singleline
+      -
+        - col2
+        -
+          __assoc__:
+            -
+              - heading
+              - Location
+            -
+              - handle
+              - location
+            -
+              - width
+              - ''
+            -
+              - type
+              - singleline
+  defaults:
+    -
+      __assoc__:
+        -
+          - col1
+          - ''
+        -
+          - col2
+          - ''
+  maxRows: 1
+  minRows: 1
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Table

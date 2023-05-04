@@ -1,4 +1,4 @@
-dateModified: 1683143711
+dateModified: 1683210163
 elementSources:
   craft\elements\Entry:
     -
@@ -35,9 +35,11 @@ fs:
 meta:
   __names__:
     0a7e2618-6229-4e6d-87e0-701d85e633d1: Text # Text
+    0d6817ba-a336-489e-b432-7553f6ddd8b8: Default # Default
     3ce62596-45b2-4aba-998c-f3be11ef0e13: Common # Common
     4bc480dc-2ce7-429e-a68c-1b4f4c03e745: Stat # Stat
     4d8965f3-dbff-4afb-9415-3d4d32411107: Images # Images
+    4ecec9de-d3f7-4f19-ad73-94e4db9fb59f: Testimonials # Testimonials
     5c0d212d-68a4-414c-a68f-8a20ab7e04a6: Text # Text
     5c642d7e-b16b-4836-9575-668d75d242e5: Site # Site
     6bb86789-dc7c-4c62-b4e8-2a7b8adacd31: Tagline # Tagline
@@ -46,6 +48,7 @@ meta:
     53ed4ec6-af5c-42a2-afad-80c9a997d531: 'Public Schema' # Public Schema
     58f5b474-d2ce-4341-a712-17a571a8a6db: 'Rich Text' # Rich Text
     65b1bafd-55ba-4e72-99c5-a70e6cf78fb3: Homepage # Homepage
+    65f776b0-13c1-4b50-8149-1703476b076b: 'Testimonial Copy' # Testimonial Copy
     73dee624-3cc1-4180-9524-9f875b44d168: 'Rich Text' # Rich Text
     83d405dd-0042-4021-8459-b67b36beb35a: FAQs # FAQs
     86bcac20-f64d-48f5-92b1-15ac5ff68704: URL # URL
@@ -62,6 +65,8 @@ meta:
     c51b2e71-ef89-4217-af42-ee91c498ae72: Image # Image
     cdf3301e-c893-4f68-9c16-d1c8b81dd94d: Adventures # Adventures
     da3edfb6-18fb-442e-b76b-9b00380e510a: Location # Location
+    ebe0dd8d-7baf-4a48-b0ea-fede0571a2f9: Testimonials # Testimonials
+    f9e0a1e1-0957-49a3-9b43-c2212513f04d: 'Testimonial Byline' # Testimonial Byline
     fb921e71-563f-4841-9947-e3b3a9e8d651: Stats # Stats
 plugins:
   redactor:
